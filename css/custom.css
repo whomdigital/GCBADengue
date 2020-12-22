@@ -9,12 +9,12 @@
 **********************************************************************************/
 
 #banner{
-	background-image: url(/imagenes/fondohero-1920x950-opc2.jpg);
+	background-image: url(/imagenes/fondohero-sinNADA.jpg);
 }
 @media only screen and (max-width: 400px){
 
 	#banner{
-		background-image: url(/imagenes/banner-mobile.jpg);
+		background-image: url(/imagenes/fondohero-sinNADA.jpg);
 	}
 }
 
@@ -102,7 +102,7 @@
 @media only screen and (max-width: 400px){
 
 	#divFormasComunes {
-		background-image: url(/imagenes/mobile-prevencion.jpg);
+		background-color: #ffdb36;
 	}
 
 }
@@ -110,7 +110,7 @@
 @media only screen and (min-width: 400px){
 
 	#divFormasComunes {
-background-image: url(/imagenes/fondoprevencion-1920x450.jpg);	
+background-image: url(/imagenes/fondoprevencionSINNADA-1920x450.jpg);	
 	}
 
 }
