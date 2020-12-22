@@ -9,7 +9,7 @@
 **********************************************************************************/
 
 #banner{
-	background-image: url(/imagenes/Banner-dengue.jpg);
+	background-image: url(/imagenes/fondohero-1920x950-opc2.jpg);
 }
 @media only screen and (max-width: 400px){
 
@@ -30,6 +30,70 @@
 
 	#imgFooter{
 		width: 65%;
+	}
+
+}
+
+@media only screen and (max-width: 400px){
+
+	#h3Recomendacion{
+		font-size: 30px;
+	}
+
+}
+
+@media only screen and (min-width: 400px){
+
+	#h3Recomendacion{
+		font-size: 50px;
+	}
+
+}
+
+@media only screen and (max-width: 400px){
+
+	#h3Prevenir{
+		font-size: 30px;
+	}
+
+}
+
+@media only screen and (min-width: 400px){
+
+	#h3Prevenir{
+		font-size: 50px;
+	}
+
+}
+
+@media only screen and (max-width: 400px){
+
+	#h3PrevenirDos {
+		font-size: 30px;
+	}
+
+}
+
+@media only screen and (min-width: 400px){
+
+	#h3PrevenirDos {
+		font-size: 50px;
+	}
+
+}
+
+@media only screen and (max-width: 400px){
+
+	#h3Sintomas {
+		font-size: 30px;
+	}
+
+}
+
+@media only screen and (min-width: 400px){
+
+	#h3Sintomas {
+		font-size: 50px;
 	}
 
 }
