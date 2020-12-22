@@ -97,3 +97,20 @@
 	}
 
 }
+
+
+@media only screen and (max-width: 400px){
+
+	#divFormasComunes {
+		background-image: url(/imagenes/mobile-prevencion.jpg);
+	}
+
+}
+
+@media only screen and (min-width: 400px){
+
+	#divFormasComunes {
+background-image: url(/imagenes/fondoprevencion-1920x450.jpg);	
+	}
+
+}
